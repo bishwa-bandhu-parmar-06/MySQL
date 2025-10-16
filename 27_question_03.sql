@@ -1,0 +1,3 @@
+
+
+ SELECT * FROM users WHERE salary BETWEEN 50000 AND 70000;
